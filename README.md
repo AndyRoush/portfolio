@@ -1,2 +1,2 @@
-# portfolio
-This will be my newest iteration of my portfolio
+# Portfolio
+Hello! This is my current, most up to date portfolio. Please feel free to take a look :)
