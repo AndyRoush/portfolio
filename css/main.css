@@ -290,7 +290,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   #about .img-about-out {
     position: absolute;
     bottom: 0px;
-    right: -138px; }
+    right: 0px; }
 
 /* Counter Section Start */
 .counters {
